@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning APP AND WEB DEVELOPMENT
 - 📫 How to reach me
 - linkdin:https://www.linkedin.com/in/kotreshhiremath/
--email:kotreshsh162@gmail.com
+- email:kotreshsh162@gmail.com
 - 😄 Pronouns: Mr happyman
 - ⚡ Fun fact: bug free
 
