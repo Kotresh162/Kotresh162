@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kotresh162
 - 👀 I’m interested in SOFTWARE DEVELOPMET
 - 🌱 I’m currently learning APP AND WEB DEVELOPMENT
+- LeetCode Profile: https://leetcode.com/u/kotresh162/
 - 📫 How to reach me
 - linkdin:https://www.linkedin.com/in/kotreshhiremath/
 - email:kotreshsh162@gmail.com
