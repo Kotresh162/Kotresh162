@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kotresh162
+- 👋 Hi, I’m Kotresh
 - 👀 I’m interested in SOFTWARE DEVELOPMET
 - 🌱 I’m currently learning APP AND WEB DEVELOPMENT
 - LeetCode Profile: https://leetcode.com/u/kotresh162/
