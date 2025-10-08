@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kotresh Hiremath</h1>
-<h3 align="center">A Techie works on building mobile apps,websites and AI stuffs.</h3>
+<h3 align="center">Working on AI parts of the Web and app.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kotresh162&label=Profile%20views&color=0e75b6&style=flat" alt="kotresh162" /> </p>
 
