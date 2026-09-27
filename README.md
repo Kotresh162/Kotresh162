@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kotresh</h1>
-<h3 align="center">A passionate Techie,working AI/ML and Backend system that works with chromium based application.</h3>
+<h3 align="center">A passionate Techie,working AI/ML and Backend systems</h3>
 
 - 🌱 I’m currently learning **AI/ML,Go,chromium based application.**
 
